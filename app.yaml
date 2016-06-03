@@ -1,0 +1,5 @@
+api_version: 1
+runtime: php
+runtime_config:
+  document_root: .
+vm: true

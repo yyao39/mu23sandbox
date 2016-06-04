@@ -1,3 +1,11 @@
+# Developing Log
+## June 3, 2016
+- Follow the YouTube tutorial at https://www.youtube.com/watch?v=yYnk0LkAqdQ
+- Set up phpMyAdmin on my laptop
+- Start building the user log in database
+
+
+
 # Getting started with PHP on Google Cloud Platform
 
 [![Coverage Status][coveralls-badge]][coveralls-link]
@@ -44,4 +52,5 @@ Tutorial | Folder
 [step-5-code]: https://github.com/GoogleCloudPlatform/getting-started-php/tree/master/5-logging
 [step-6]: https://cloud.google.com/php/getting-started/run-on-compute-engine
 [step-6-code]: https://github.com/GoogleCloudPlatform/getting-started-php/tree/master/6-compute-engine
+
 
